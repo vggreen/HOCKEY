@@ -6,7 +6,6 @@ HOCKEY
 	<meta charset="utf-8" />
 	<title>Field Hockey</title>
 </head>
-
 <body>
 	<article id="top">
 		<header>
